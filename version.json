@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-14 01:05:47 UTC",
+  "last_updated": "2026-11-14 07:33:57 UTC",
   "data": {
     "data": [
       {
         "id": 6035872082,
         "rootPlaceId": 17625359962,
-        "name": "RIVALS",
-        "description": "Welcome to RIVALS, the most intense first person shooter game on Roblox! Challenge other players in 1v1 to 5v5 FPS duels where the first to 5 wins!\n\n\ud83c\udf83 UPDATE 24 - HAPPY RIVALSWEEN! Our Halloween Update is out now! \ud83c\udf83\n\n\ud83d\udd2b Challenge someone by stepping on a duel pad!\n\ud83d\udd11 Earn keys to unlock new weapons & skins!\n\ud83d\udcdc Complete contracts to unlock exclusive rewards!\n\ud83c\udfc6 Show off your win streak and climb the leaderboards! \n\n\ud83c\udfae Available on Desktop, Phones, Tablets, XBOX, & PlayStation 5!\n\ud83d\udc9c Like and join the group for exclusive rewards!\n\n\u26a0\ufe0f WARNING: Cheaters will be permanently banned with no second chances, our anticheat & moderators will catch you. Abusing glitches & using sketchy farming methods are also not allowed!\n\n\ud83c\udfc6 RIA25 Best Shooter Experience!\n\ud83c\udfc6 RIA26 Best Shooter Experience!",
+        "name": "[\ud83c\udfaf] RIVALS",
+        "description": "Welcome to RIVALS, the most intense first person shooter game on Roblox! Challenge other players in 1v1 to 5v5 FPS duels where the first to 5 wins!\n\n\ud83c\udfc6 SEASON 4 - The Standard Season is here! Check out the patch notes in-game to see all the details!  \ud83c\udfc6 \n\n\ud83d\udd2b Challenge someone by stepping on a duel pad!\n\ud83d\udd11 Earn keys to unlock new weapons & skins!\n\ud83d\udcdc Complete contracts to unlock exclusive rewards!\n\ud83c\udfc6 Show off your win streak and climb the leaderboards! \n\n\ud83c\udfae Available on Desktop, Phones, Tablets, XBOX, & PlayStation 5!\n\ud83d\udc9c Like and join the group for exclusive rewards!\n\n\u26a0\ufe0f WARNING: Cheaters will be permanently banned with no second chances, our anticheat & moderators will catch you. Abusing glitches & using sketchy farming methods are also not allowed!\n\n\ud83c\udfc6 RIA25 Best Shooter Experience!\n\ud83c\udfc6 RIA26 Best Shooter Experience!",
         "sourceName": null,
         "sourceDescription": null,
         "creator": {
@@ -23,11 +23,11 @@
         "allowedGearCategories": [],
         "isGenreEnforced": false,
         "copyingAllowed": false,
-        "playing": 211513,
-        "visits": 19292380669,
+        "playing": 225700,
+        "visits": 19300074330,
         "maxPlayers": 40,
         "created": "2024-05-26T16:47:48.617Z",
-        "updated": "2026-11-09T06:45:35.235Z",
+        "updated": "2026-11-14T02:55:14.752Z",
         "studioAccessToApisAllowed": false,
         "createVipServersAllowed": false,
         "universeAvatarType": "MorphToR15",
@@ -37,7 +37,7 @@
         "untranslated_genre_l1": "shooter",
         "isAllGenre": false,
         "isFavoritedByUser": false,
-        "favoritedCount": 97402766,
+        "favoritedCount": 97429414,
         "canonicalUrlPath": "/games/17625359962/RIVALS",
         "isContentRestricted": false,
         "isOfficiallyLicensed": false,
