@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19 13:45:52 UTC",
+  "last_updated": "2026-11-19 21:51:23 UTC",
   "data": {
     "data": [
       {
@@ -23,8 +23,8 @@
         "allowedGearCategories": [],
         "isGenreEnforced": false,
         "copyingAllowed": false,
-        "playing": 138281,
-        "visits": 19378854764,
+        "playing": 98094,
+        "visits": 19383360711,
         "maxPlayers": 40,
         "created": "2024-05-26T16:47:48.617Z",
         "updated": "2026-11-19T05:57:17.406Z",
@@ -37,7 +37,7 @@
         "untranslated_genre_l1": "shooter",
         "isAllGenre": false,
         "isFavoritedByUser": false,
-        "favoritedCount": 97791986,
+        "favoritedCount": 97814926,
         "canonicalUrlPath": "/games/17625359962/RIVALS",
         "isContentRestricted": false,
         "isOfficiallyLicensed": false,
